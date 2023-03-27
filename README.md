@@ -1,4 +1,4 @@
-### Hi there 👋 I am Vipul...
+### Hi there 👋 I am Vipul, currently building a profile for myself.. Thank for checking in!!
 
 <!--
 **1o28/1o28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
