@@ -1,4 +1,16 @@
-### Hi there 👋 I am Vipul, currently building this profile by doing.. Thank for checking in!!
+### Hi there 👋 I am Vipul, 
+# I am learning, doing, fails some time, learning it again, doing it again.
+
+<!-- - 🔭 I’m currently working on  -->
+- 🌱 I’m currently learning Javascript
+- 👯 I’m looking to collaborate on open-source javascript project which help me understand the basics as well as complex problems.
+- 🤔 I’m looking for help with many things as I'm a learner & I believe learning is never ending process.
+- 💬 Ask me about Java, HTML, CSS
+- 📫 How to reach me: +91-9782427903
+<!-- - 😄 Pronouns: ...
+- ⚡ Fun fact: ... -->
+
+# Thank for checking in!!
 
 <!--
 **1o28/1o28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
