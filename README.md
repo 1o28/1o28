@@ -1,5 +1,5 @@
 ### Hi there 👋 I am Vipul, 
-# I am learning, doing, fails some time, learning it again, doing it again.
+#### I am learning, doing, fails some time, learning it again, doing it again.
 
 <!-- - 🔭 I’m currently working on  -->
 - 🌱 I’m currently learning Javascript
@@ -10,7 +10,7 @@
 <!-- - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
 
-# Thank for checking in!!
+## Thank for checking in!!
 
 <!--
 **1o28/1o28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
