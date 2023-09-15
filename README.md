@@ -2,10 +2,10 @@
 #### I am learning, doing, fails some time, learning it again, doing it again.
 
 <!-- - 🔭 I’m currently working on  -->
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m currently learning React.Js
 - 👯 I’m looking to collaborate on open-source javascript project which help me understand the basics as well as complex problems.
-- 🤔 I’m looking for help with many things as I'm a learner & I believe learning is never ending process.
-- 💬 Ask me about Java, HTML, CSS
+<!-- - 🤔 I’m looking for peers who can code with me & getting better together.  -->
+- 💬 Ask me about Java, HTML, CSS, JavaScript
 - 📫 How to reach me: +91-9782427903
 <!-- - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
